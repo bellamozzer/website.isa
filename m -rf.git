@@ -1,0 +1,170 @@
+[33mcommit a4aea29c020bf1e49c802020f6ebf195a6418580[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a1834af 4a08c74
+Author: John  Ariedi <34405957+joaoariedi@users.noreply.github.com>
+Date:   Sat Jul 2 15:54:28 2022 -0300
+
+    Merge pull request #1 from joaoariedi/dev
+    
+    docs() removi algumas informações ao arquivo readme...
+
+[33mcommit 4a08c747f3dc069a866dfcd5fac7cdf61d3fffda[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Sat Jul 2 15:52:48 2022 -0300
+
+    docs() removi algumas informações ao arquivo readme...
+
+[33mcommit a1834af6ad77ca35eed1e5420af569937b4667ac[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Sat Jul 2 15:47:22 2022 -0300
+
+    docs() adicionei algumas informações ao arquivo readme...
+
+[33mcommit db6c50097644a0a7732789ad6a8a41e93be88ba3[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Sat Jul 2 14:23:58 2022 -0300
+
+    docs() adding clear bp to readme
+
+[33mcommit fe91a558d037c0d3a2478edd7c06507e5f2892ca[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Sat Jul 2 10:52:58 2022 -0300
+
+    new libs added to readme
+
+[33mcommit 540523a78f8e337eb89121c2ce05ee3e12367748[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Thu Jun 9 08:55:36 2022 -0300
+
+    docs(): defining buildpacks to use poetry
+
+[33mcommit 1a0fb597c062376c902c40b864dd5425c2af088c[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Thu Jun 9 08:50:41 2022 -0300
+
+    chore(): fixing python version in poetry.lock
+
+[33mcommit 289b90e9a27c9cdd5f32a57f9b50a1bf1b7d2997[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Thu Jun 9 08:48:06 2022 -0300
+
+    chore(): fixing python version in pyproject
+
+[33mcommit 360459b5f6a4313dd711ba0d89b5fa3d0ef2253d[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Thu Jun 9 08:45:09 2022 -0300
+
+    chore(): removing requirements to test poetry heroku build pack
+
+[33mcommit 5ae8d9d311a3b60d7554cbd2b938cd47b9c3584c[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Wed Jun 8 10:38:23 2022 -0300
+
+    chore(procfile): adding tag details to procfile commmands
+
+[33mcommit ebdc1c77b4245701c3e732a0267590ca01ce5777[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Tue Jun 7 15:47:56 2022 -0300
+
+    refactoring(index): removing query parameter from index
+
+[33mcommit 422cb40c900f43a4ed48fdcdcefbf8656c6c2d09[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Tue Jun 7 15:45:29 2022 -0300
+
+    refactoring(index): adding jinja2 extends syntaxe
+
+[33mcommit cead03eae2e8a3798b58dc306d52164fb81b43a7[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Tue Jun 7 15:44:49 2022 -0300
+
+    chore(): adding pycharm stuff to gitignore
+
+[33mcommit da45b8879ea5030da09553c6100b90310454bd19[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 18:46:44 2022 -0300
+
+    feat(home): updating index call
+
+[33mcommit 796546de25f5efdf300b64622fefd1bac4703afe[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 18:37:13 2022 -0300
+
+    feat(home): adding statics
+
+[33mcommit 6215ce3ebc09d5339091df4ba1291835885f49c1[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 18:36:26 2022 -0300
+
+    feat(home): updating home with new styles
+
+[33mcommit 098180b6c15553e56a35ab630d8fa14eb4526d38[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 17:21:13 2022 -0300
+
+    fix(deploy): updating the journey call
+
+[33mcommit 82044735ef347b3c7edc07fcef18893188d431ee[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 17:18:18 2022 -0300
+
+    fix(deploy): installing httptools
+
+[33mcommit 998b28e672c2af03f67859ed78aa649c5c520c86[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 17:15:35 2022 -0300
+
+    fix(deploy): installing uvloop
+
+[33mcommit 042c1b5f7771c4a9790e80009314ae5893ae4631[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 16:57:34 2022 -0300
+
+    chore(): adding GNU LICENSE
+
+[33mcommit a3b1f6887e5f4dedffaed7985c3e36b2b4960c79[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 16:55:12 2022 -0300
+
+    chore(): readme file added
+
+[33mcommit 8c0ed2becb99f9a48a15441381e5b22b8e0d64d2[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 16:53:34 2022 -0300
+
+    chore(): adding the templates
+
+[33mcommit ea340e2841a01691aabf1b53de2cd371b6ce0071[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 16:53:23 2022 -0300
+
+    chore(): adding static files
+
+[33mcommit 90cbbe3fc207a3039835f76ad20901746933e4fd[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 16:53:06 2022 -0300
+
+    chore(): adding the requirements file
+
+[33mcommit e009de4fee9ec54e4ef0f7a571a6dee1bc307848[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 16:52:48 2022 -0300
+
+    chore(): adding the views
+
+[33mcommit 48a610703fdccad0aaece5a99fd2aab2bb75a573[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 16:52:18 2022 -0300
+
+    chore(): adding poetry files to track the environment
+
+[33mcommit 806a926568fb81463f6b0703950097ca1457c73a[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 16:51:53 2022 -0300
+
+    chore(): setting up heroku workers
+
+[33mcommit 16802b5136821c39708dd40ccb36bff1dd8e2742[m
+Author: ariedi <joaoariedi@gmail.com>
+Date:   Mon Jun 6 16:51:32 2022 -0300
+
+    chore(): adding .gitignore
